@@ -1,0 +1,5 @@
+// program to find the sum of first n natural numbers
+++++++++++ // change this line to change value of n
+[>+<-]>
+[[>+>+<<-]>>[-<<+>>]<-]<[[>[<+>-]]<<]
+>[<+>-]<?
